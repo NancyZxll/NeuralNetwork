@@ -1,4 +1,4 @@
-# DeepNovo
+# NeuralNetwork
 
 ## Synopsis
 
